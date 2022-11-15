@@ -59,4 +59,5 @@ int main(){
     traverse();
     printf("REVERSE LINKED LIST IS : \n");
     reverse();
+    printf("\n");
 }
